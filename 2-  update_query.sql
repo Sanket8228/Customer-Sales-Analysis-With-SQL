@@ -179,13 +179,13 @@ SELECT CONVERT(INT,CONVERT(VARCHAR,dl.FullDate,112)) as DateKey
 
    when 'Tuesday' then 'Martes'  
 
-   when 'Wednesday' then 'Miércoles'  
+   when 'Wednesday' then 'MiÃ©rcoles'  
 
    when 'Thursday' then 'Jueves'  
 
    when 'Friday' then 'Viernes'  
 
-   when 'Saturday' then 'Sábado'  
+   when 'Saturday' then 'SÃ¡bado'  
 
    when 'Sunday' then 'Doming'  
 
@@ -251,7 +251,7 @@ end as SpanishMonthName
 
    when 'January' then 'Janvier'  
 
-   when 'February' then 'Février'  
+   when 'February' then 'FÃ©vrier'  
 
    when 'March' then 'Mars'  
 
@@ -263,7 +263,7 @@ end as SpanishMonthName
 
    when 'July' then 'Juillet'  
 
-   when 'August' then 'Août'  
+   when 'August' then 'AoÃ»t'  
 
    when 'September' then 'Septembre'  
 
@@ -271,7 +271,7 @@ end as SpanishMonthName
 
    when 'November' then 'Novembre'  
 
-   when 'December' then 'Décembre'  
+   when 'December' then 'DÃ©cembre'  
 
 end as FrenchMonthName 
 
