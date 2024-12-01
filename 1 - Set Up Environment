@@ -1,7 +1,9 @@
-Adventure Workbook SQL Backup file downlaod from here 
+We will First Setup Environment SSMS for our Sales Analysis Project
+
+Downlaod Adventure Workbook SQL Backup file from here 
 
 Step 1 - https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 
 Copy Paste And Download this DB 'AdventureWorksDW2019.bak'
 
-Step 2 - Restore it to your SSMS
+Step 2 - Restore it to your SQL SERVER MANAGEMENT STUDIO #SSMS
